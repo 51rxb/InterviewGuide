@@ -28,7 +28,7 @@ PHPer 的开发的技术栈大多是 LAMP 或者是 LNMP，其中 Linux、Apache
 
 张小胖，一位知趣、有趣、有自我觉悟的程序员
 
-个人博客：[51任性](https://www.51rxb.com)
+个人博客：[51任性](http://www.51rxb.com)
 
 公众号：51任性，不定期更新技术相关知识
 
