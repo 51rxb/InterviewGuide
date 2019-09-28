@@ -36,7 +36,7 @@ PHPer 的开发的技术栈大多是 LAMP 或者是 LNMP，其中 Linux、Apache
 
 如果我写的文章，可以帮到你，不妨支持一下:)
 
-![pay](./img/pay.png)
+![pay](./img/pay.jpeg)
 
 
 
