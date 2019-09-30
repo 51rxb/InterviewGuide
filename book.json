@@ -3,7 +3,8 @@
         "-livereload",
         "hide-element",
         "back-to-top-button",
-        "pageview-count"
+        "pageview-count",
+        "chapter-fold"
     ],
     "pluginsConfig": {
         "hide-element": {
