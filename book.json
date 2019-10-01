@@ -1,8 +1,8 @@
 {
     "links": {
         "sidebar": {
-            "张小胖的博客": "http://www.51rxb.com",
-            "张小胖的github": "https://github.com/zyy215"
+            "博客": "http://www.51rxb.com",
+            "github": "https://github.com/zyy215"
         }
     },
     "plugins": [
