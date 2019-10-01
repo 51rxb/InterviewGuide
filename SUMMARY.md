@@ -9,9 +9,9 @@
 
 	* [Mongo](Database/Mongo.md)
 
-* [Redis](Database/database.md)
+* [Redis](Redis/README.md)
 
-	* [Redis 7个高危漏洞](REDIS.md)
+	* [Redis 7个高危漏洞](Redis/REDIS.md)
 * [算法](Algorithm/algorithm.md)
 
 * [张小胖博客](http://www.51rxb.com)
