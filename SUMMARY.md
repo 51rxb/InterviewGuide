@@ -2,15 +2,17 @@
 
 * [前言](README.md)
 
-* [PHP](PHP/PHP.md)
+* [PHP](Php/php.md)
+
 * [数据库](Database/database.md)
 
-	* [Mysql](Database/Mysql.md)
+	* [Mysql](Database/mysql.md)
 
-	* [Mongo](Database/Mongo.md)
+	* [Mongo](Database/mongo.md)
 
-* [Redis](Redis/README.md)
+* [Redis](Redis/redis.md)
 
-	* [Redis 7个高危漏洞](Redis/REDIS.md)
+	* [Redis 7个高危漏洞](Redis/vulnerabilities.md)
+
 * [算法](Algorithm/algorithm.md)
 
