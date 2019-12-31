@@ -25,7 +25,7 @@
     sudo -i vi /etc/.bash_profile
     
     //输入密码并回车，在弹出的页面中按i键开始输入以下内容
-     JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/
+     JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/
    
      CLASSPAHT=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
    
