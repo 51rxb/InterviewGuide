@@ -7,7 +7,7 @@
   },
   "plugins": [
     "-livereload",
-    "hide-element",
+    
     "back-to-top-button",
     "pageview-count",
     "chapter-fold",
@@ -33,7 +33,7 @@
     },
     "icp": {
       "number": "京ICP备16002870号-2",
-      "link": "http://www.beian.miit.gov.cn/"
+      "link": "http://beian.miit.gov.cn/?spm=a2c4g.11186623.7y9jhqsfz.110.6def7243SslgJW"
     }
   }
 
